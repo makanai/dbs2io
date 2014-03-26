@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dbs2io", "dbs2io\dbs2io.vcxproj", "{CFD746FE-4C0E-4654-8A98-E495DB348CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD746FE-4C0E-4654-8A98-E495DB348CDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFD746FE-4C0E-4654-8A98-E495DB348CDD}.Debug|Win32.Build.0 = Debug|Win32
+		{CFD746FE-4C0E-4654-8A98-E495DB348CDD}.Release|Win32.ActiveCfg = Release|Win32
+		{CFD746FE-4C0E-4654-8A98-E495DB348CDD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
